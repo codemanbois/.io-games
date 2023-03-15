@@ -1,3 +1,1 @@
-# .io-games
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-shurqh)
+this is made to cure the boredness inside of us.
